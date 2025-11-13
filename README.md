@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Soy Jose Rodriguez and work in Peru
 <!--
 **siemprevivo18/siemprevivo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
